@@ -1,15 +1,13 @@
 {
-  "name": "devops_js",
+  "name": "nodejs-project",
   "version": "1.0.0",
-  "main": "index.js",
-  "directories": {
-    "test": "tests"
-  },
+  "description": "A Node.js project with CI pipeline and tests",
+  "main": "tests/test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Mark de Rooij",
   "license": "ISC",
-  "description": ""
+  "dependencies": {},
+  "devDependencies": {}
 }
