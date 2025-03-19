@@ -1,8 +1,15 @@
 {
   "name": "nodejs-project",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "A Node.js project with CI pipeline and tests",
   "main": "tests/test.js",
+=======
+  "main": "tests/test.js",
+  "directories": {
+    "test": "tests"
+  },
+>>>>>>> 76bd7966067683be7de48a22b1d0da57ae9c1b31
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
